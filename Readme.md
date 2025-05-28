@@ -12,4 +12,9 @@
                       2.String Functions
                       3.Escape Sequence 
                       4.Problems based on above concept
+</p>
+<br>
+<p>Chapter 4 contain: 1.List and Methods 
+                      2.Tuples and Methods 
+                      3.Problems based on above concept
 </p>            
