@@ -17,4 +17,8 @@
 <p>Chapter 4 contain: 1.List and Methods 
                       2.Tuples and Methods 
                       3.Problems based on above concept
-</p>            
+</p>
+<br>
+<p>Chapter 5 contain: 1.Dictionary and Methods
+                      2.Set and Methods
+                      3.Problems based on above concept</p>         
