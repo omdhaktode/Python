@@ -21,4 +21,10 @@
 <br>
 <p>Chapter 5 contain: 1.Dictionary and Methods
                       2.Set and Methods
-                      3.Problems based on above concept</p>         
+                      3.Problems based on above concept</p>    
+<br>
+<p>Chapter 6 contain: 1.if-else ladder
+                      2.if-elif ladder
+                      3.In operator
+                      4.Problem based on above concept
+                      </p>     
