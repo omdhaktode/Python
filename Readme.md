@@ -28,3 +28,10 @@
                       3.In operator
                       4.Problem based on above concept
                       </p>     
+<br>
+<p>Chapter 7 conatain: 1.Introduction of Loops
+                       2.while loop
+                       3.for loop
+                       4.break,continue & pass statement
+                       5.Problem based on above concept</p>
+                    
