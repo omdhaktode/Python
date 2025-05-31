@@ -39,4 +39,6 @@
                        2.Arguments and Parameters
                        3.Recursion
                        4.Problem based on above concept</p>
-                    
+<br>
+<p>Classic Snake-Water-Gun game in Python: 1.Used Conditional Logic & Random Choice
+                                           2.Used Dictionary Mapping</p>                   
