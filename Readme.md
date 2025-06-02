@@ -29,14 +29,28 @@
                       4.Problem based on above concept
                       </p>     
 <br>
-<p>Chapter 7 conatain: 1.Introduction of Loops
-                       2.while loop
-                       3.for loop
-                       4.break,continue & pass statement
-                       5.Problem based on above concept</p>
+<p>Chapter 7 contain: 1.Introduction of Loops
+                      2.while loop
+                      3.for loop
+                      4.break,continue & pass statement
+                      5.Problem based on above concept</p>
 <br>
-<p>Chapter 8 conatain: 1.Introduction of functions
-                       2.Arguments and Parameters
-                       3.Recursion
-                       4.Problem based on above concept</p>
-                    
+<p>Chapter 8 contain: 1.Introduction of functions
+                      2.Arguments and Parameters
+                      3.Recursion
+                      4.Problem based on above concept</p>
+<br>
+<p>Project1:Classic Snake-Water-Gun game in Python    
+<br>
+<p>Chapter 9 contain: 1.Introduction of files how to open,read() and close()
+                      2.Different file functions
+                      3.Created different text files and Solved file problems using python
+                      </p>             
+<br>
+<p>Chapter 10 contain: 1.Introduction of Object-Oriented Programming
+                       2.Instance attribute vs Class attribute
+                       3.Self Convention
+                       4.@staticmethod decorator 
+                       5.__init__ constructor
+                       6.Problem based on above concept
+                      </p>  

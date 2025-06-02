@@ -1,0 +1,6 @@
+# Introduction of files how to open,read() and close()
+# basically at the time of open we have open(file name,mode) generally it's mode="r" (read)
+f=open("om.txt","rb")
+data=f.read()
+print(data)
+f.close()
