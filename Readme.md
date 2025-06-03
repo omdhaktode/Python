@@ -54,3 +54,12 @@
                        5.__init__ constructor
                        6.Problem based on above concept
                       </p>  
+<br>
+<p>Chapter 11 contain: 1.Introduction of Inheritance
+                       2.Types of Inheritance
+                       3.Super keyword
+                       4.@Classmethod decorator
+                       5.Setter and Getters
+                       6.Operator Overloading
+                       6.Problem based on above concept
+                      </p>  
