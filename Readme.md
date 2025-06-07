@@ -66,3 +66,16 @@
 <br>
 <p>Project2:Guess a no with system if it's correct then you are win 
 </p>
+<br>
+<p>Chapter 12 contain: 1.Walrus Operator
+                       2.Type Variables
+                       3.Match Case
+                       4.Merge Dictionary
+                       5.Open Multiple Files
+                       6.Exception Handling
+                       7.Module Declaration
+                       8.Global Keyword
+                       9.Enumerate function
+                       10.List Comprehension
+                       11.Problem based on above concept
+                      </p>  
