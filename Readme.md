@@ -1,6 +1,6 @@
-<p> Chapter 1 contain: 1.Creating first program
-                       2.Modules
-                       3.Solving some basic problems </p>
+<p>Chapter 1 contain: 1.Creating first program
+                      2.Modules
+                      3.Solving some basic problems </p>
 <br>
 <p>Chapter 2 contain: 1.Variables and Rules
                       2.Operators
@@ -78,4 +78,13 @@
                        9.Enumerate function
                        10.List Comprehension
                        11.Problem based on above concept
+                      </p>  
+<br>
+<p>Chapter 13 contain: 1.Virtual Environment Creation
+                       2.Lambda Function
+                       3.Join Method
+                       4.Format function
+                       5.Map,Filter and Reduce functions
+                       6.Creates Requirements.txt contain VE files data 
+                       7.Problem based on above concept
                       </p>  
